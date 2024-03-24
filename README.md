@@ -8,9 +8,13 @@ ESP (Name, Box, Skeleton)
 Aimbot (hitbox selection, fov, smoothing)
 
 # ☂️ Features
+
 Intuitive project structure
+
 MinHook included for hooking
+
 Interface manager
+
 Netvar Manager
 Memory-related functions (Calling virtual functions, Pattern scanning)
 
