@@ -1,5 +1,5 @@
 # 🛰 About
-This is an external cheat base meant to be used for my internal YouTube tutorials. This was made to avoid me having to recode all the boiler-plate nonsense each video.
+This is an external cheat. This was made to avoid me having to recode all the boiler-plate nonsense each video.
 
 # 🌌 Videos
 **Chams** / Colored Models
